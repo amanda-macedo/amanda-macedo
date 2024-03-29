@@ -1,6 +1,5 @@
 ### Olá! Eu sou a Amanda Macedo 😊
-Faço graduação em estatística na UFRGS, com previsão de conclusão entre 12/2024 e 08/2025. Atuei de agosto de 2021 a abril de 2023 como estagiária de dados, assistente de analista de dados e como cientista de dados. Procuro constantemente aperfeiçoar meus conhecimentos e habilidades, portanto, o GitHub será o lugar onde colocarei meus projetos educacionais 💁🏻‍♀️
-Obs: Projetos profissionais estarão privados no perfil.
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amanda-ramos-macedo-analisededados/)
 
